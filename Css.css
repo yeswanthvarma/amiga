@@ -1,0 +1,69 @@
+.margin {
+    margin :20px 60px;
+
+
+}
+
+.spacing {
+    margin-left :30px;
+}
+.left {
+    margin-left :auto;
+}
+
+.float-container {
+    border: 3px solid #fff;
+
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+
+}
+.center {
+  text-align: center;
+}
+.form-control {
+    border: 0;
+}
+.no-border {
+    border: 0;
+    box-shadow: none;
+
+}
+.icons {
+  padding-left: 25px;
+  background: url("<i class="fa-solid fa-envelope"></i>") no-repeat left;
+  background-size: 20px;
+}
+
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+}
+li {
+  display: inline;
+}
+
+.input-icons i {
+  position: absolute;
+}
+.input-field {
+    width: 50%;
+
+    text-align: center;
+}
+
+.leftm{
+  margin-left: 250px
+}
+.spacebtw {
+  margin-bottom: 40px
+}
+.width{
+  width: 93%
+}
+.widthbt{
+  width: 55%
+}
